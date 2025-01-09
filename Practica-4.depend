@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1736357219 source:c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\gesrae.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"GestorEdificios.h"
+	"GestorReservas.h"
+	"CalendarioMes.h"
+
+1736376164 source:c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\gestoredificios.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"GestorEdificios.h"
+
+1736443466 source:c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\gestorreservas.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"GestorReservas.h"
+	"CalendarioMes.h"
+
+1736462661 source:c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\calendariomes.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"CalendarioMes.h"
+
+1736439825 c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\gestoredificios.h
+
+1736438983 c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\gestorreservas.h
+	"GestorEdificios.h"
+
+1736376440 c:\users\pepep\desktop\pepe universidad\uned-fp\practica-4\calendariomes.h
+	"GestorEdificios.h"
+	"GestorReservas.h"
+
